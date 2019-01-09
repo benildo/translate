@@ -2,7 +2,7 @@
 
 This software can be used to translate files in JSON format in several languages ​​using the Yandex website. This system is widely used for the internationalization of Angular systems.
 
-## Getting Start
+## 🏁 Getting Start 🏁
 
 To use this system, you must install this project.
 
@@ -20,7 +20,7 @@ There is no set of settings for programs, only one Yandex Key you need to do som
 
 
 
-### Installation
+### 🔨 Installation 🔨
 
 After you install the prerequisites, clone the project into a folder of your choice. Then install the project using the command:
 
