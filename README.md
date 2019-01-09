@@ -13,12 +13,10 @@ To use this system, you must install this project.
 - Postman
 - Yandex Key
 
-```
 There is no set of settings for programs, only one Yandex Key you need to do some work as it is necessary to create an account on the site and create a key. follow the link to facilitate the purchase of this key.
 
 - https://translate.yandex.com/developers/keys
 
-```
 
 ### Installation
 
