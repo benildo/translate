@@ -1,12 +1,13 @@
 # PostYan - Translate Language JSON (Angular - Node) 
+:es: :de: :it: :ru: :us: :gb: :kr: :cn: :fr: :uk: :jp:
 
 This software can be used to translate files in JSON format in several languages ​​using the Yandex website. This system is widely used for the internationalization of Angular systems.
 
-## 🏁 Getting Start 🏁
+##  Getting Start 🏁
 
 To use this system, you must install this project.
 
-### Prerequisites
+### Prerequisites :warning: 
 
 - Node v6.10.2
 - Visual Studio Code
@@ -20,7 +21,7 @@ There is no set of settings for programs, only one Yandex Key you need to do som
 
 
 
-### 🔨 Installation 🔨
+###  Installation 🔨
 
 After you install the prerequisites, clone the project into a folder of your choice. Then install the project using the command:
 
@@ -34,13 +35,13 @@ module.exports = {
     yandexApiKey: 'Your-Yandex-Key'
 };
 
-## Running the tests
+## Running the tests :bicyclist:
 
 To access the use the command:
 
 $ npm start
 
-### How to use the system
+### How to use the system :trophy:
 
 1. Open the postman and select "POST"
 2. In place type the local url with the name of the application and the desired language (en = English) Ex .: localhost:3003/translate/en
@@ -68,20 +69,20 @@ Example for test:
 
 ```
 
-## Contribution
+## Contribution :moneybag:
 
 To contribute to the project deposit any account into my account.
 
-## Authors
+## Authors :pencil2:
 
-* **Benildo Junior** - *Initial work* - [Dev](https://github.com/benildo)
-* **Anderson Ribeiro** - *Initial work* - [Dev](https://github.com/andersonribeirodemoraes)
+* **Benildo Junior** - *Initial work* - [Dev](https://github.com/benildo) :dog:
+* **Anderson Ribeiro** - *Initial work* - [Dev](https://github.com/andersonribeirodemoraes) :rabbit:
 
-## License
+## License :four_leaf_clover:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Supported languages ​​and their respective codes
+## Supported languages ​​and their respective codes :eyes:
 
 https://tech.yandex.com/translate/doc/dg/concepts/api-overview-docpage/
 
