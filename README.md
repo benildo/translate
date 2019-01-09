@@ -1,4 +1,4 @@
-# PostYan - Translate Language JSON (Angular - Node) 
+# PostYan - Translate Language JSON (Node) 
 :es: :de: :it: :ru: :us: :gb: :kr: :cn: :fr: :uk: :jp:
 
 This software can be used to translate files in JSON format in several languages ​​using the Yandex website. This system is widely used for the internationalization of Angular systems.
