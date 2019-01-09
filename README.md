@@ -13,9 +13,11 @@ To use this system, you must install this project.
 - Postman
 - Yandex Key
 
+
 There is no set of settings for programs, only one Yandex Key you need to do some work as it is necessary to create an account on the site and create a key. follow the link to facilitate the purchase of this key.
 
 - https://translate.yandex.com/developers/keys
+
 
 
 ### Installation
@@ -40,14 +42,14 @@ $ npm start
 
 ### How to use the system
 
-1 - Open the postman and select "POST"
-2 - In place type the local url with the name of the application and the desired language (en = English) Ex .: localhost:3003/translate/en
-3 - Select "Body"
-4 - Check "raw"
-5 - Select JSON
-6 - Paste the JSON object between {
-7 - Click "Send"
-8 - The translated result appears below
+1. Open the postman and select "POST"
+2. In place type the local url with the name of the application and the desired language (en = English) Ex .: localhost:3003/translate/en
+3. Select "Body"
+4. Check "raw"
+5. Select JSON
+6. Paste the JSON object between {}
+7. Click "Send"
+8. The translated result appears below
 
 ```
 Example for test:
