@@ -75,7 +75,7 @@ To contribute to the project deposit any account into my account.
 ## Authors
 
 * **Benildo Junior** - *Initial work* - [Dev](https://github.com/benildo)
-* **Master Anderson** - *Initial work* - [Dev](https://github.com/)
+* **Anderson Ribeiro** - *Initial work* - [Dev](https://github.com/andersonribeirodemoraes)
 
 ## License
 
