@@ -3,6 +3,8 @@
 
 This software can be used to translate files in JSON format in several languages ​​using the Yandex website. This system is widely used for the internationalization of Angular systems.
 
+*The json file must have the limit of 2672 rows.
+
 ##  Getting Start 🏁
 
 To use this system, you must install this project.
