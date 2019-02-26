@@ -6,9 +6,7 @@ This software can be used to translate files in JSON format in several languages
 Restrictions:
 
 For POST requests, the maximum size of the text being passed is 10,000 characters.
-
 In GET requests, the restriction applies not to the text itself, but to the size of the entire request string, which can contain other parameters besides the text.
-
 The maximum size of the string is from 2 to 10 KB (depending on the browser version).
 
 ##  Getting Start 🏁
@@ -97,4 +95,6 @@ https://tech.yandex.com/translate/doc/dg/concepts/api-overview-docpage/
 ## YanDex Key Limit
 
 https://tech.yandex.com/translate/doc/dg/reference/translate-docpage/
+https://tech.yandex.com/translate/doc/dg/concepts/faq-api-translate-docpage/
+https://translate.yandex.com/developers/prices
 
