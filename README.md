@@ -3,7 +3,13 @@
 
 This software can be used to translate files in JSON format in several languages ​​using the Yandex website. This system is widely used for the internationalization of Angular systems.
 
-*The json file must have the limit of 2672 rows.
+Restrictions:
+
+For POST requests, the maximum size of the text being passed is 10,000 characters.
+
+In GET requests, the restriction applies not to the text itself, but to the size of the entire request string, which can contain other parameters besides the text.
+
+The maximum size of the string is from 2 to 10 KB (depending on the browser version).
 
 ##  Getting Start 🏁
 
