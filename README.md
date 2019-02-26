@@ -88,3 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 https://tech.yandex.com/translate/doc/dg/concepts/api-overview-docpage/
 
+## YanDex Key Limit
+
+https://tech.yandex.com/translate/doc/dg/reference/translate-docpage/
+
